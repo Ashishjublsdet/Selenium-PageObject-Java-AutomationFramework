@@ -35,7 +35,18 @@ Webdrivers : In this class we are creating driver object on the Basis of DriverT
 ##### listners : In this package we are using TestNg ITestlistner for creating report on the basis of Test result
 
 ```bash
-TestListner :In this class we have implement ITestlistner provided 
+TestListner :In order to listen to test events such as passed, failed, skipped, etc. we have TestListener class which implements ITestListener.
+```
+```bash
+**onFinish:** This method is invoked after all tests methods gets executed.
+
+**onTestStart:** This method is invoked before any test methods are invoked. This can be used to indicate that the particular test method has been started.
+
+**onTestSkipped:** This method is invoked when each test method is skipped. This can be used to indicate that the particular test method has been skipped.
+
+**onTestSuccess:** This method is invoked when any test method succeeds. This can be used to indicate that the particular test method has successfully finished its execution.
+
+**onTestFailure:** This method is invoked when any test method fails. This can be used to indicate that the particular test method has failed. You can create an event for taking a screenshot which will show where the test has been failed.
 ```
 ##### reportManager : In this package we are using Extent report for reporting testCases
 
