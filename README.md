@@ -60,5 +60,7 @@ BaseTest :In this class we have initialize drivers and all the pages.
 
 ![](images/Report.png)
 
+![](images/Report1.png)
+
 
 
