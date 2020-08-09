@@ -17,7 +17,6 @@ public class LoginTestCases extends BaseTest {
         driver.get(URL);
         loginPage.pressExc();
         homePage.searchForProducts();
-        Thread.sleep(5000);
 
     }
 

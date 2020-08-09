@@ -13,7 +13,7 @@ git clone
 
 
 ## Project Structure
-### Packages & Classes Details 
+### Package & Classes Details 
 
 ##### actionHelper : In this package common web functions is present
 
@@ -52,4 +52,5 @@ HomePage,Login Page :In this class we have all the locators and associated metho
 ```bash
 BaseTest :In this class we have initialize drivers and all the pages.
 ```
+
 
