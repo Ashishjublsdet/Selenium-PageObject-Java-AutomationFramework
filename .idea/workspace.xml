@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60a19528-1f83-41a6-af29-b43d57c3ab27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Report1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/listeners/TestListner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationReports/AutomationReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationReports/AutomationReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/listeners/TestListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCases/LoginTestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCases/LoginTestCases.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
@@ -47,12 +38,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="224">
-                <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="78" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,8 +123,8 @@
         <option value="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/listeners/TestListener.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCases/LoginTestCases.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -395,7 +386,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.40398294" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" order="9" />
       <window_info anchor="bottom" id="Log Analyzer" order="10" />
@@ -545,16 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/LoginTestCases.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -572,6 +553,16 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="78" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

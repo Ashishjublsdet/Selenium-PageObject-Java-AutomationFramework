@@ -1,6 +1,6 @@
 # Selenium-POM-Java Framework
 
-Selenium page object framework with java &amp; Maven &amp; TestNG 
+Selenium page object automation framework using java &amp; Maven &amp; TestNG & Extent Report
 
 ## Steps to Setup
 
