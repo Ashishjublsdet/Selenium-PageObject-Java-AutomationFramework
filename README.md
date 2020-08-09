@@ -6,17 +6,14 @@ Selenium page object framework with java &amp; Maven &amp; TestNG
 **1. Clone the application**
 
 ```bash
-
 git clone 
-
 ```
 
 **2. Import project in any Editor(Eclispe/Intellij)**
 
 
-##Project Structure 
-
-#####Packge Details 
+## Project Structure
+### Packages & Classes Details 
 
 ##### actionHelper : In this package common web functions is present
 
@@ -54,5 +51,5 @@ HomePage,Login Page :In this class we have all the locators and associated metho
 
 ```bash
 BaseTest :In this class we have initialize drivers and all the pages.
-
+```
 
