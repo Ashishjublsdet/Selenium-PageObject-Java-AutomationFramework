@@ -14,9 +14,9 @@ git clone
 **2. Import project in any Editor(Eclispe/Intellij)**
 
 
-###Project Structure 
+##Project Structure 
 
-####Packge Details 
+###Packge Details 
 
 ##### actionHelper : In this package common web functions is present
 
