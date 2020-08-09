@@ -1,4 +1,5 @@
-# Selenium-POM-Java
+# Selenium-POM-Java Framework
+
 Selenium page object framework with java &amp; Maven &amp; TestNG 
 
 ## Steps to Setup
