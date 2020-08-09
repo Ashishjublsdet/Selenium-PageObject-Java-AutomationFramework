@@ -1,4 +1,4 @@
-# Selenium-POM-Java Framework
+# Selenium-PageObject-Java-Automation-Framework
 
 Selenium page object automation framework using java &amp; Maven &amp; TestNG & Extent Report
 
