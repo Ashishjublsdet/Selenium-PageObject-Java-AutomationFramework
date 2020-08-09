@@ -10,6 +10,8 @@ git clone
 ```
 
 **2. Import project in any Editor(Eclispe/Intellij)**
+**3. Run test.xml**
+
 
 
 ## Project Structure
