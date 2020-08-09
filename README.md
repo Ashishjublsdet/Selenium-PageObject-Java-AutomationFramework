@@ -55,4 +55,9 @@ HomePage,Login Page :In this class we have all the locators and associated metho
 BaseTest :In this class we have initialize drivers and all the pages.
 ```
 
+##### Report
+
+![](images/Report.png)
+
+
 
